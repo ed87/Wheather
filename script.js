@@ -13,7 +13,6 @@ document.addEventListener("DOMContentLoaded", () => {
       alert("Please enter a city name.");
     }
   });
-
   
   function fetchWeather(city) {
     // Replace with your OpenWeatherMap API key
